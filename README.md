@@ -1,5 +1,7 @@
 # Diamantanalys för Guldfynd
 
+Länk till deployed app: https://jmannicode-kunskapskontroll-app-bqjj67.streamlit.app/
+
 Detta projekt innehåller:  
 - Flera Jupyter-notebooks för dataanalys  
 - En Streamlit-app (`app.py`)  
